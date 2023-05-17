@@ -1,0 +1,4 @@
+<resources>
+    <!-- Aqui se cambia el nombre de la etiqueta de la app -->
+    <string name="app_name">SuperHeros</string>
+</resources>
